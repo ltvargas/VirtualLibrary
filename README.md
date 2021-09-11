@@ -8,18 +8,18 @@
 2. Clonar repositorio (git clone https://github.com/ltvargas/VirtualLibrary.git)
    -Saltar a la rama ltvargas (git checkout ltvargas)
 3. Backend
-  - cd pydjango desde el ambiente
-  - pip install -r requeriments.txt
-  -python manage.py makemigrations
-  -python manage.py migrate
-  -python manage.py runserver
-  -http://localhost:8000/admin/
+   - cd pydjango desde el ambiente
+   - pip install -r requeriments.txt
+   - python manage.py makemigrations
+   - python manage.py migrate
+   - python manage.py runserver
+   - http://localhost:8000/admin/
 4. fronend
-  -cd virtuallibrary
-  -Debes haber ejecutado python manege.py runserver
-  -La ejecución se realiza en el main()
-  -Descomentar la función load_previus_data() si se desea tener libros cargados previamente, se debe volver a comentar la linea luego de ejecutar el programa por primera vez
-  -las credenciales se encuentrar en el file credentianls.csv
+   - cd virtuallibrary
+   - Debes haber ejecutado python manege.py runserver
+   - La ejecución se realiza en el main()
+   - Descomentar la función load_previus_data() si se desea tener libros cargados previamente, se debe volver a comentar la linea luego de ejecutar el programa por primera vez
+   - las credenciales se encuentrar en el file credentianls.csv
 
 Nota: si al seguir todo los pasos tiene algun inconveniente pruebe instalando el contenido de requeriments por medio de pip install
 # Descripción 

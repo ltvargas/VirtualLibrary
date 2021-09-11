@@ -1,0 +1,6 @@
+form_title="\n"+"\x1b[4;36m"
+form_normal="\033[;37m"
+form_error="\033[;31m"
+form_succes="\033[1;32m"
+form_process="\033[1;33m"
+form_emty="\033[1;35m"
